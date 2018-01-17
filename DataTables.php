@@ -12,6 +12,7 @@ namespace xinyeweb\datatables;
 use yii\grid\GridView;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
+use yii\helpers\Json;
 
 class DataTables extends GridView {
 
